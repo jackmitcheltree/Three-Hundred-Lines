@@ -12,7 +12,8 @@ Challenge criteria:
 ______________________________
 
 Current Standings: 
-Jack      = 0pts
-Ian       = 0pts
-Clarisse  = 0pts
-Zach      = 0pts
+
+- Jack      = 0pts
+- Ian       = 0pts
+- Clarisse  = 0pts
+- Zach      = 0pts
