@@ -1,0 +1,7 @@
+import time
+start = time.time()
+
+#PUT YOUR CODE HERE
+
+end = time.time()
+print(end - start)
