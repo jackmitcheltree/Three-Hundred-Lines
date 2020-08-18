@@ -5,3 +5,6 @@ start = time.time()
 
 end = time.time()
 print(end - start)
+
+
+more info: https://www.tutorialspoint.com/time-functions-in-python
