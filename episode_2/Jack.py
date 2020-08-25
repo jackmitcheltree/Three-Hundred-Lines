@@ -6,9 +6,7 @@ start = time.time()
 
 def F(n):
     F = str(math.prod(list(range(1,n+1))))
-    S = 0
-    for x in range(len(F)):
-        S = int(F[x]) + S
+    S = sum([int(F[x]) for x in range(len(F))])
     return S
 print(F(100))
 
