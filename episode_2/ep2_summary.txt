@@ -1,0 +1,28 @@
+Episode X:
+
+time results (sec):
+Zach = 0.0009946823120117188, 0.0
+Jack = 0.0
+Ian = 0.0
+Clarisse = 0.00024271011352539062, 0.0
+
+readability: Zach
+reuseability: Ian
+concision: Claesse
+flattest code: n/a
+runtime: Ian
+the style point: Zach
+
+standings:
+1. 
+2. Ian, Zach	= 2
+3. Clarisse	= 1
+4. Jack		= 0
+
+
+
+
+
+
+
+
