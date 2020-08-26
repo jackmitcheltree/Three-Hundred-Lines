@@ -1,4 +1,4 @@
-Episode X:
+Episode 2:
 
 time results (sec):
 Zach = 0.0009946823120117188, 0.0
