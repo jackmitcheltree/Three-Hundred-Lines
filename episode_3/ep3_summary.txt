@@ -1,0 +1,20 @@
+Episode 3:
+
+time results (sec):
+Zach = 
+Jack = 
+Ian =
+Clarisse =
+
+readability:
+reuseability:
+concision:
+flattest code:
+runtime:
+the style point:
+
+standings:
+1.
+2.
+3.
+4.
