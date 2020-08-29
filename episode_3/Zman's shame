@@ -1,0 +1,4 @@
+mylist= [75,95,47,87,82,75,73,28,83,47,43,73,91,67,98]
+for i in range(0,len(mylist)): mylist[i]= int (mylist[i])
+print(sum(mylist))
+print("I am a failure")
