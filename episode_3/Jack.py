@@ -21,17 +21,13 @@ triangle = """75
 def max_path(triangle):
     triangle = [int(x) for x in triangle.split()]
     n = int( (2 * len(triangle) + (0.25))**(1/2) - 0.5 + 1)
-    tri = lambda n: (n * (n+1)) // 2
-    X = list(map(tri, list(range(n-1))))
-    Y = list(map(tri, list(range(1,n))))
-    condense = lambda x,y : (x,y)
-    rows = [triangle[a:b] for a,b in list(map(condense, X, Y))]
+    X = list(map(lambda n: (n * (n+1)) // 2, list(range(n-1))))
+    Y = list(map(lambda n: (n * (n+1)) // 2, list(range(1,n))))
+    rows = [triangle[a:b] for a,b in list(map(lambda x,y : (x,y) , X, Y))]
     while len(rows) > 1:
         for x in range(len(rows[-1])-1):
-            if rows[-1][x] >= rows[-1][x+1]:
-                rows[-2][x] += rows[-1][x]
-            else:
-                rows[-2][x] += rows[-1][x+1]
+            if rows[-1][x] >= rows[-1][x+1]: rows[-2][x] += rows[-1][x]
+            else: rows[-2][x] += rows[-1][x+1]
         del rows[-1]
     return rows
 
