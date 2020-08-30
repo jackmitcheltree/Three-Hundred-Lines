@@ -14,7 +14,7 @@ runtime: Jack
 the style point: Ian
 
 standings:
-1. Jack = 0+3 = 3
-2. Ian = 2+2 = 4
+1. Jack     = 0+3 = 3
+2. Ian      = 2+2 = 4
 3. Clarisse = 1+1 = 2
-4. Zack = 2+0 = 2
+4. Zack     = 2+0 = 2
