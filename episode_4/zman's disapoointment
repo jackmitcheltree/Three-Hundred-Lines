@@ -1,0 +1,9 @@
+def primefinder(n):
+  n = 1000000
+  list = []
+  for x in range(2,n+1):
+    if x not in list :
+      print(x)
+      for y in range(x**2,n+1,x):
+        list.append(y)
+print(primefinder(1000000))
