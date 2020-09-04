@@ -13,7 +13,7 @@ ______________________________
 
 Current Standings: 
 
-1. Ian = 4pts          
-2. Jack = 3pts
-3. Clarisse, Zach = 2pts
+1. Ian = 6pts          
+2. Jack, Clarisse = 4pts
+3. Zach = 2pts
 4. 
