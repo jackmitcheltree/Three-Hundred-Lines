@@ -1,0 +1,20 @@
+Episode 4:
+
+time results (sec):
+Zach      = n/a
+Jack      = 0.35873, 0.36778, 0.34726
+Ian       = 3.59305, 3.66311, 5.07130
+Clarisse  = 0.54246, 0.52959, 0.53017
+
+readability: Ian
+reusability: Ian
+concision: Clarisse
+flattest code: n/a
+runtime: Jack
+the style point: Clarisse
+
+standings:
+1.
+2. Ian, Clarisse  +2
+3. Jack +1
+4. Zach +0
