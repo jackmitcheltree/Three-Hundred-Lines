@@ -11,7 +11,7 @@ Challenge criteria:
 
 ______________________________
 
-Current Standings: 
+Current Standings: (Week 4)
 
 1. Ian = 6pts          
 2. Jack, Clarisse = 4pts
