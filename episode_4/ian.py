@@ -27,6 +27,6 @@ def circular_check(p): # returns True if prime p is a circular prime, False othe
             if len(check) == 0: return True # check if each circulation of prime is prime
             else: return False
                 
-primes = sieve_of_Eratosthenes(1000004) # all primes under 1,000,004
-circular_primes = [1 for p in primes if circular_check(p) == True] # number of circular primes under 1,000,004
+primes = sieve_of_Eratosthenes(1000000) # all primes under 1,000,000
+circular_primes = [1 for p in primes if circular_check(p) == True] # number of circular primes under 1,000,000
 print(f'Ans = {len(circular_primes)}')
