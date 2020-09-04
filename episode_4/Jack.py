@@ -13,7 +13,7 @@ def primesL_than(n):
     return primes
 def Num_CprimesL_than(n):
     delete = ['0','2','4','6','8','5']
-    primes = [x for x in primesL_than(1000000) if not any(y in delete for y in x)]
+    primes = [x for x in primesL_than(n) if not any(y in delete for y in x)]
     primes.extend(['2','5'])
     circular_primes = []
     for prime in primes:
