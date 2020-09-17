@@ -57,7 +57,6 @@ while check == True:
     print("you're welcome.")
     time.sleep(3)
     print("looks like its time for me to go, see you soon. enjoy the music")
-    thread.stop()
     break
 
 E = time.time()
