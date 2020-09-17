@@ -61,3 +61,5 @@ while check == True:
 
 E = time.time()
 print(E-S)
+
+#make sure you have the .wav saved as jazz.wav in the same file location. 
