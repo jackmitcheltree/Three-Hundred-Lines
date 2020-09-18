@@ -1,0 +1,20 @@
+Episode 5:
+
+time results (sec):
+Zach = 125.90
+Jack = a lot of time
+Ian = 0.0
+Clarisse = 0.0
+
+readability: Zach
+reuseability: Clarisse
+concision: Clarisse
+flattest code: n/a
+runtime: n/a
+the style point: Jack
+
+standings:
+1. Clarisse + 3
+2.
+3. Zach, Jack + 1
+4. Ian + 0 
