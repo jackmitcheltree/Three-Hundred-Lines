@@ -11,9 +11,9 @@ Challenge criteria:
 
 ______________________________
 
-Current Standings: (Week 4)
+Current Standings: (Week 5)
 
-1. Ian = 6pts          
-2. Jack, Clarisse = 4pts
-3. Zach = 2pts
-4. 
+1. Clarisse = 7pts
+2. Ian = 6pts  
+3. Jack = 5pts
+4. Zach = 3pts
