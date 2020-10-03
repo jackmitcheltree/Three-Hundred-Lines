@@ -1,0 +1,20 @@
+Episode 6:
+
+time results (sec):
+Zach =
+Jack = 4.44994044303894, 4.227710008621216, 4.262369632720947
+Ian = 1.7273883819580078, 1.738356590270996, 1.738356590270996
+Clarisse = 0.06484222412109375, 0.0708150863647461, 0.06779956817626953
+
+readability: Jack
+reuseability: Ian
+concision: Ian
+flattest code: n/a
+runtime: Clarisse
+the style point: Jack
+
+standings:
+1.
+2. Jack, Ian = 7pts, 8pts
+3. Clarisse = 8pts
+4. Zach = 3pts
