@@ -13,7 +13,7 @@ ______________________________
 
 Current Standings: (Week 5)
 
-1. Clarisse = 7pts
-2. Ian = 6pts  
-3. Jack = 5pts
-4. Zach = 3pts
+1. Clarisse, Ian = 8pts
+2. Jack = 7pts
+3. Zach = 3pts
+4. 
