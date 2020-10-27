@@ -11,7 +11,7 @@ Challenge criteria:
 
 ______________________________
 
-Current Standings: (Week 6)
+Current Standings: (Week 7)
 
 1. Ian = 11pts
 2. Clarisse = 8pts
