@@ -13,7 +13,7 @@ ______________________________
 
 Current Standings: (Week 6)
 
-1. Clarisse, Ian = 8pts
-2. Jack = 7pts
-3. Zach = 3pts
-4. 
+1. Ian = 11pts
+2. Clarisse = 8pts
+3. Jack = 7pts
+4. Zach = 3pts 
