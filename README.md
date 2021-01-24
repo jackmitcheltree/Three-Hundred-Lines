@@ -13,7 +13,7 @@ ______________________________
 
 Current Standings: (Week 7)
 
-1. Ian = 11pts
-2. Clarisse = 8pts
-3. Jack = 7pts
+1. Ian = 12pts
+2. Clarisse = 11pts
+3. Jack = 8pts
 4. Zach = 3pts 
