@@ -1,0 +1,20 @@
+Episode 9:
+
+time results (sec):
+Zach = n/a
+Jack = 5.55, 6.37, 6.59
+Ian = 0.00498652458190918, 0.0019958019256591797, 0.00797891616821289
+Clarisse = 0.9312663078308105, 1.0134103298187256, 1.0202422142028809
+
+readability: Jack
+reuseability: n/a
+concision: Clarisse
+flattest code: n/a
+runtime: Ian 
+the style point: Clarisse
+
+standings:
+1. Clarisse 8+3 = 11pts
+2.
+3. Ian / Jack, 11+1 = 12pts / 7+1 = 8pts
+4. Zach 3 + 0 = 3pts
